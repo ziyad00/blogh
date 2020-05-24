@@ -1,5 +1,5 @@
 ---
-title: "Zeyad Alotibi"
+title: "Zeyad Alotaibi"
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 description: "Personal Blog"
 ---
