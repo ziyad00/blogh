@@ -1,5 +1,5 @@
-title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
+title = "Zeyad Alotaibi"
+baseURL = "https://practical-neumann-84a3dd.netlify.app/"
 languageCode = "en-us"
 theme = "ananke"
 
@@ -19,7 +19,7 @@ enableRobotsTXT = true
   favicon = ""
   description = "The last theme you'll ever need. Maybe."
   facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
+  twitter = "https://twitter.com/zyad0100"
   instagram = ""
   youtube = ""
   github = ""
