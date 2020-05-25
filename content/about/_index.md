@@ -1,8 +1,9 @@
 ---
 title: "About"
-description: "I'm Ziyad. A developer."
+description: ""
 featured_image: ''
 ---
 
 
 
+I'm Ziyad. A developer.
